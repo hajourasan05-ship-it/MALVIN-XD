@@ -12,17 +12,17 @@
     "BOT_NAME": {
       "description": "Your Bot Name",
       "required": true,
-      "value": "ᴍᴀʟᴠɪɴ xᴅ"
+      "value": "𝑁𝑎𝑛𝑎"
     },
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "ᴍᴀʟᴠɪɴ ᴋɪɴɢ"
+      "value": "⛥⃝𝕳𝕬𝕽𝕷𝕰𝖄༒︎"
     },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here",
       "required": true,
-      "value": "263776388689"
+      "value": "212679887428"
     },
     "SESSION_ID": {
       "description": "Put your session-id here. Must Start with 'starcore~'",
@@ -37,7 +37,7 @@
     "TIMEZONE": {
       "description": "Set your timezone",
       "required": true,
-      "value": "Africa/Harare"
+      "value": "Morocco/Casablanca"
     }
   }
 }
