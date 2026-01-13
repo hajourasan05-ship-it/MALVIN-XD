@@ -1,11 +1,11 @@
 
 {
-"bot-name": "MALVIN-XD",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
+"bot-name": "𝑁𝑎𝑛𝑎",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ",
   "logo": "https://files.catbox.moe/juxfce.jpg",
   "keywords": ["bot"],
-  "documentation-link": "https://malvinxd-pairsession.onrender.com/",
-    "owner-verification":"malvink003@gmail.com",
+  "documentation-link": "none",
+    "owner-verification":"hajourasan05@gmail.com",
   
     "env": {
       "SESSION_ID": {
@@ -18,13 +18,13 @@
     "OWNER_NUMBER": {
       "description": "Enter owner number",
       "required": true,
-      "value": "263714757857"
+      "value": "212679887428"
       
        },
       "TIMEZONE": {
       "description": "Enter country timezone",
       "required": true,
-      "value": "Africa/Harare"
+      "value": "Morocco/Casablanca"
 
     }  
   }
